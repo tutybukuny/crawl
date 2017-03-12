@@ -1,0 +1,344 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<test>
+	 	<question>khái niệm "đường bộ" được hiểu như thế nào là đúng?</question>
+	 	<answer>"đường bộ" gồm: đường, cầu đường bộ. hầm đường bộ, bến phà đường bộ</answer>
+	</test>
+	<test>
+	 	<question>"vạch kẻ đường" được hiểu thế nào là đúng?</question>
+	 	<answer>vạch kẻ đường là vạch chỉ sự phân chia làn đường, vị trí hoặc hướng đi, vị trí dừng lại.</answer>
+	</test>
+	<test>
+	 	<question>khái niệm "phần đường xe chạy" được hiểu như thế nào là đúng?</question>
+	 	<answer>là phần của đường bộ được sử dụng cho các phương tiện giao thông qua lại</answer>
+	</test>
+	<test>
+	 	<question>khái niệm "làn đường" được hiểu như thế nào là đúng?</question>
+	 	<answer>là một phần của đường được chia theo chiều ngang của đường, có bề rộng đủ cho xe đỗ an toàn.</answer>
+	</test>
+	<test>
+	 	<question>khái niệm "đường phố" được hiểu như thế nào là đúng?</question>
+	 	<answer>đường phố là đường đô thị, gồm lòng đường và hè phố.</answer>
+	</test>
+	<test>
+	 	<question>khái niệm "dải phân cách" được hiểu như thế nào là đúng?</question>
+	 	<answer>là bộ phận của đường để phân chia mặt đường thành hai chiều xe chạy riêng biệt hoặc để phân chia phần đường của xe cơ giới và xe thô sơ.</answer>
+	</test>
+	<test>
+	 	<question>dải phân cách trên đường bộ có những loại nào?</question>
+	 	<answer>loại cố định. loại di động.</answer>
+	</test>
+	<test>
+	 	<question>khái niệm "đường ưu tiên" được hiểu như thế nào là đúng?</question>
+	 	<answer>đường ưu tiên là đường mà trên đó phương tiện tham gia giao thông đường bộ được các phương tiện đến từ các hướng khác nhường đường khi qua nơi đường giao nhau, được cắm biển báo hiệu đường ưu  tiên.</answer>
+	</test>
+	<test>
+	 	<question>"phương tiện giao thông đường bộ" gồm những loại nào?</question>
+	 	<answer>phương tiện giao thông cơ giới đường bộ, phương tiện giao thông thô sơ đường bộ.</answer>
+	</test>
+	<test>
+	 	<question>khái niệm "phương tiện giao thông cơ giới đường bộ" được hiểu thế nào là đúng?</question>
+	 	<answer>gồm xe ôtô; máy kéo; rơ moóc hoặc sơ mi rơ moóc được kéo bởi xe ô tô, máy kéo; xe mô tô hai bánh, xe mô tô ba bánh, xe gắn máy (kể cả xe máy điện) và các loại xe tương tự.</answer>
+	</test>
+	<test>
+	 	<question>"phương tiện tham gia giao thông đường bộ" gồm những loại nào?</question>
+	 	<answer>phương tiện giao thông cơ giới đường bộ. phương tiện giao thông thô sơ đường bộ.</answer>
+	</test>
+	<test>
+	 	<question>"người tham gia giao thông đường bộ" gồm những đối tượng nào?</question>
+	 	<answer>người điểu khiển, người sử dụng phương tiện tham gia giao thông đường bộ.người điều khiển, dẫn dắt súc vật; người đi bộ trên đường bộ.</answer>
+	</test>
+	<test>
+	 	<question>khái niệm "người điều khiển giao thông" được hiểu như thế nào là đúng?</question>
+	 	<answer>là người được giao nhiệm vụ hướng dẫn giao thông tại nơi thi công, nơi ùn tắc giao thông, ở bến phà, tại cầu đường bộ đi chung với đường sắt. là cảnh sát giao thông. 4- tất cả các ý nêu trên.</answer>
+	</test>
+	<test>
+	 	<question>các hành vi nào ghi dưới đây bị nghiêm cấm?</question>
+	 	<answer>phá hoại đường, cầu, hầm, bến phà đường bộ, phá hoại đèn, tín hiệu, cọc tiêu, biển bảo hiệu, gương cầu, dải phân cách. phá hoại hệ thống thoát nước và các công trình, thiết bị khác thuộc kết cấu hạ tầng giao thông đường bộ.</answer>
+	</test>
+	<test>
+	 	<question>những hành vi nào ghi ở dưới đây bị nghiêm cấm?</question>
+	 	<answer>đua xe, cổ vũ đua xe, tổ chức đua xe trái phép. lạng lách, đánh võng.</answer>
+	</test>
+	<test>
+	 	<question>người điều khiển phương tiện giao thông đường bộ mà trong cơ thể có chất ma túy có bị nghiêm cấm hay không?</question>
+	 	<answer>nghiêm cấm.</answer>
+	</test>
+	<test>
+	 	<question>người điều khiển xe ô tô, máy kéo, xe máy chuyên dùng trên đường mà trong máu hoặc hơi thở có nồng độ cồn vượt quá bao nhiêu thì bị cấm?</question>
+	 	<answer>người điều khiển xe ô tô, máy kéo, xe máy chuyên dùng trên đường mà trong máu hoặc hơi thở có nồng độ cồn.</answer>
+	</test>
+	<test>
+	 	<question>người điều khiển xe mô tô, xe gắn máy trên đường mà trong máu có nồng độ cồn vượt quá bao nhiêu thì bị cấm?</question>
+	 	<answer>nồng độ cồn vượt quá 50 miligam/100 mililít máu.</answer>
+	</test>
+	<test>
+	 	<question>người điều khiển xe mô tô, xe gắn máy trên đường mà trong khí thở có nồng độ cồn vượt quá bao nhiêu thì bị cấm?</question>
+	 	<answer>nồng thở. độ cồn vượt quá 0,25 miligam/1 lít khí</answer>
+	</test>
+	<test>
+	 	<question>hành vi giao xe cơ giới, xe máy chuyên dùng cho người không đủ điều kiện để điều khiển xe tham gia giao thông có bị nghiêm cấm hay không?</question>
+	 	<answer>bị nghiêm cấm.</answer>
+	</test>
+	<test>
+	 	<question>hành vi điều khiển xe cơ giới chạy quá tốc độ quy định, giành đường, vượt ẩu có bị nghiêm cấm hay không?</question>
+	 	<answer>bị nghiêm cấm.</answer>
+	</test>
+	<test>
+	 	<question>những hành vi nào sau đây bị cấm?</question>
+	 	<answer>bấm còi, rú ga liên tục, bấm còi trong thời gian từ 22 giờ đến 5 giờ. bấm còi hơi, sử dụng đèn chiếu xa trong khu đô thị và khu dân cư, trừ các xe ưu tiên khi đang làm nhiệm vụ.</answer>
+	</test>
+	<test>
+	 	<question>các hành vi nào sau đây bị nghiêm?</question>
+	 	<answer>lắp đặt, sử dụng còi, đèn không đúng thiết kế của nhà sản xuất đối với từng loại xe cơ giới. sử dụng thiết bị âm thanh gây mất trật tự an toàn giao thông, trật tự công cộng.</answer>
+	</test>
+	<test>
+	 	<question>hành vi bỏ trốn sau khi gây tai nạn để trốn tránh trách nhiệm hoặc khi có điều kiện mà cố ý không cứu giúp người bị tai nạn  giao  thông  có  bị  nghiêm  cấm  hay không?</question>
+	 	<answer>bị nghiêm cấm.</answer>
+	</test>
+	<test>
+	 	<question>khi xảy ra tai nạn giao thông, những hành vi nào ghi ở dưới đây bị nghiêm cấm?</question>
+	 	<answer>xâm phạm tính mạng, sức khỏe, tài sản của người bị tai nạn giao thông; xâm phạm tính mạng, sức khỏe, tài sản của người gây tai nạn giao thông lợi dụng việc xảy ra tai nạn giao thông để hàng hung, đe dọa, xúi giục, gây sức ép, làm mất trật tự, cản trở việc xử lý tai nạn giao thông</answer>
+	</test>
+	<test>
+	 	<question>việc sản xuất, mua bán, sử dụng biển số xe cơ giới, xe máy chuyên dùng được quy định như thế nào trong luật giao thông đường bộ?</question>
+	 	<answer>nghiêm cấm sản xuất, mua bán, sử dụng trái phép.</answer>
+	</test>
+	<test>
+	 	<question>người lái xe không được vượt xe khác khi gặp trường hợp nào ghi ở dưới đây?</question>
+	 	<answer>trên cầu hẹp có một làn xe; nơi đường giao nhau, đường bộ giao nhau cùng mức với đường sắt điều kiện thời tiết hoặc đường không đảm bảo an toàn cho việc vượt; xe ưu tiên đang phát tín hiệu ưu tiên làm nhiệm vụ</answer>
+	</test>
+	<test>
+	 	<question>người điều khiển xe mô tô hai bánh, ba bánh, xe gắn máy có được phép sử dụng xe để kéo, đẩy các xe khác, vật khác khi tham gia giao thông không?</question>
+	 	<answer>không cho phép.</answer>
+	</test>
+	<test>
+	 	<question>người ngồi trên xe mô tô hai bánh, ba bánh, xe gắn máy khi tham gia giao thông không được thực hiện những hành vi nào dưới đây?</question>
+	 	<answer>đứng trên yên, giá đèo hàng hoặc ngồi trên tay lái; các hành vi khác gây mất trật tự an toàn giao thông.</answer>
+	</test>
+	<test>
+	 	<question>người ngồi trên xe mô tô hai bánh, xe mô tô ba bánh, xe gắn máy khi tham gia giao thông có được mang; vác vật cồng kềnh hay không?</question>
+	 	<answer>được mang, vác nhưng phải đảm bảo an toàn.</answer>
+	</test>
+	<test>
+	 	<question>khi điều khiển xe mô tô hai bánh, xe mô tô ba bánh, xe gắn máy, những hành vi nào không được phép?</question>
+	 	<answer>buông cả hai tay hoặc đi xe bằng một bánh đối với xe hai bánh, bằng hai bánh đối với xe ba bánh; chạy quá tốc độ quy định. sử dụng xe để kéo, đẩy xe khác, vật khác và chở vật cồng kềnh; để chân chống quẹt xuống đất và các hành vi khác gây mất trật tự an toàn giao thông.</answer>
+	</test>
+	<test>
+	 	<question>bảo đảm trật tự, an toàn giao thông đường bộ là trách nhiệm của ai?</question>
+	 	<answer>là trách nhiệm của cơ quan, tổ chức, cá nhân.</answer>
+	</test>
+	<test>
+	 	<question>tại nơi đường giao nhau, khi đèn điều khiển giao thông có tín hiệu vàng, người điều khiển phương tiện phải thực hiện như thế nào?</question>
+	 	<answer>phải cho xe dừng lại trước vạch dừng, trừ trường hợp đã quá vạch dừng thì được đi tiếp; trong trường hợp tín hiệu vàng nhấp nháy là được đi nhưng phải giảm tốc độ, chú ý quan sát, nhường đường cho người đi bộ qua đường.</answer>
+	</test>
+	<test>
+	 	<question>biển báo hiệu đường bộ gồm những nhóm nào, ý nghĩa của từng nhóm?</question>
+	 	<answer>nhóm biển báo cấm để biểu thị các điều cấm; nhóm biển báo hiệu nguy hiểm để cảnh báo các tình huống nguy hiểm có thể xảy ra; nhóm biểu hiệu lệnh để báo hiệu các hiệu lệnh phải thi hành. nhóm biển chỉ dẫn để chỉ dẫn hướng đi và các điều cần biết; nhóm biển phụ để thuyết minh bổ sung các loại biển báo cấm, biển báo nguy hiểm, biển hiệu lệnh và biểu chỉ dẫn. 	</answer>
+	</test>	 <test>
+	 	<question>người điều khiển giao thông ra hiệu lệnh bằng hai tay hoặc một tay giang ngang để báo hiệu thì người tham giao giao thông phải đi như thế nào đúng quy tắc giao thông?</question>
+	 	<answer>người tham gia giao thông ở phía trước và ở phía sau người điều khiển giao thông phải dừng lại; người tham gia giao thông ở phía bên phải và bên trái người điểu khiển được đi.</answer>
+	</test>
+	<test>
+	 	<question>tại nơi đường giao nhau, khi người điều khiển giao thông ra hiệu tay giơ thẳng đứng để báo hiệu thì người tham gia giao thông phải đi như thế nào?</question>
+	 	<answer>đáp án: ý 2 người tham gia giao thông ở phía trước và ở phía sau người điều khiển giao thông phải dừng lại; người tham gia giao thông ở phía bên phải và bên trái người điểu khiển được đi. người tham gia giao thông ở các hướng phải dừng lại. tất cả các trường hợp trên. <test>
+	 	<question>người điều khiển giao thông ra hiệu lệnh bằng tay phải giơ về phía trước để báo hiệu thì người tham gia giao thông phải đi như thế nào?</question>
+	 	<answer>người tham gia giao thông ở phía sau và bên phải người điều khiển phải dừng lại; người ở phía trước người điều khiển được rẽ phải; người ở phía bên trái người điều khiển giao thông được đi tất cả các hướng; người đi bộ qua đường phải đi sau lưng người điều khiển giao thông.</answer>
+	</test>
+	<test>
+	 	<question>trên đường giao thông, khi hiệu lệnh của người điều khiển giao thông trái với hiệu lệnh của đèn hoặc biển báo hiệu thì người tham gia giao thông phải chấp hành theo hiệu lệnh nào?</question>
+	 	<answer>hiệu lệnh của người điều khiển giao thông.</answer>
+	</test>
+	<test>
+	 	<question>tại nơi có biển báo hiệu cố định lại có báo hiệu tạm thời thì người tham gia giao thông phải chấp hành theo hiệu lệnh của biển báo nào?</question>
+	 	<answer>biển báo hiệu tạm thời.</answer>
+	</test>
+	<test>
+	 	<question>trên đường có nhiều làn đường cho xe đi cùng chiều được phân biệt bằng vạch kẻ phân làn đường, người điều khiển phương tiện phải cho xe đi như thế nào?</question>
+	 	<answer>phải cho xe đi trong một làn đường và chỉ được chuyển làn đường ở những nơi cho phép; khi chuyển làn phải có tín hiệu báo trước và phải đảm bảo an toàn.</answer>
+	</test>
+	<test>
+	 	<question>trên đường một chiều có vạch kẻ phân làn đường, xe thô sơ và xe cơ giới phải đi như thế nào là đúng quy tắc giao thông?</question>
+	 	<answer>xe thô sơ phải đi trên làn đường bên phải trong cùng; xe cơ giới, xe máy chuyên dùng đi trên làn đường bên trái.</answer>
+	</test>
+	<test>
+	 	<question>trên đường có nhiều làn đường, người điều khiển phương tiện tham gia giao thông sử dụng làn đường như thế nào là đúng?</question>
+	 	<answer>trên đường có nhiều làn đường cho xe đi cùng chiều được phân biệt bằng vạch kẻ phân làn đường, người điều khiển phương tiện phải cho xe đi trong một làn đường và chỉ được chuyển làn đường ở những nơi cho phép; khi chuyển làn đường phải có tín hiệu báo trước và đảm bảo an toàn. trên đường một chiều có vạch kẻ phân làn đường, xe thô sơ phải đi trên làn đường bên phải trong cùng, xe cơ giới, xe máy chuyên dùng đi trên làn đường bên trái; phương tiện tham gia giao thông đường bộ di chuyển với tốc độ thấp hơn đi về bên phải.</answer>
+	</test>
+	<test>
+	 	<question>xe sau có thể vượt lên bên phải xe khác đang chạy phía trước trong trường hợp nào?</question>
+	 	<answer>khi xe phía trước có tín hiệu rẽ trái hoặc đang rẽ trái; khi xe điện đang chạy giữa đường. khi xe chuyên dùng đang làm việc trên đường mà không thể vượt bên trái được.</answer>
+	</test>
+	<test>
+	 	<question>người lái xe phải làm gì khi quay đầu xe trên cầu, gầm cầu vượt vượt, đường ngầm hay khu  vực  đường  bộ  giao  nhau  cùng  mức  với đường sắt?</question>
+	 	<answer>không được quay đầu xe.</answer>
+	</test>
+	<test>
+	 	<question>khi muốn chuyển hướng, người lái xe phải thực hiện như thế nào?</question>
+	 	<answer>người điều khiển phương tiện phải giảm tốc độ và có tín hiệu báo hướng rẽ; chỉ cho rẽ chuyển hướng khi quan sát thấy không gây trở ngại hoặc nguy hiểm cho người và phương tiện khác. trong khi chuyển hướng, người lái xe, người điều khiển xe máy chuyên dùng phải nhường quyền đi trước cho người đi bộ, người đi xe đạp đang đi trên phần đường dành riêng cho họ; nhường đường cho các xe đi ngược chiều.</answer>
+	</test>
+	<test>
+	 	<question>khi tránh xe đi ngược chiều, các xe phải nhường đường như thế nào là đúng?</question>
+	 	<answer>nơi đường hẹp chỉ đủ cho một xe chạy và có chỗ tránh xe thì xe nào ở gần chỗ tránh hơn phải vào vị trí tránh, nhường đường cho xe kia đi. xe xuống dốc phải nhường đường cho xe đang lên dốc, xe nào có chướng ngại vật phía trước phải nhường đường cho xe không có chướng ngại vật đi trước.</answer>
+	</test>
+	<test>
+	 	<question>ban đêm xe cơ giới đi ngược chiều gặp nhau, đèn chiếu sáng phải được sử dụng như thế nào?</question>
+	 	<answer>phải chuyển từ đèn chiếu xa sang đèn chiếu gần.</answer>
+	</test>
+	<test>
+	 	<question>khi có tín hiệu của xe ưu tiên, người tham gia giao thông phải làm gì?</question>
+	 	<answer>phải nhanh chóng giảm tốc độ, tránh hoặc dừng lại sát lề đường bên phải để nhường đường; không được gây cản trở xe được quyền ưu tiên.</answer>
+	</test>
+	<test>
+	 	<question>tại nơi đường giao nhau có báo hiệu đi theo vòng xuyến, người điều khiển phương tiện phải nhường đường như thế nào?</question>
+	 	<answer>phải nhường đường cho xe đi bên trái.</answer>
+	</test>
+	<test>
+	 	<question>tại nơi đường giao nhau, người lái xe đang đi trên đường không ưu tiên phải nhường đường như thế nào?</question>
+	 	<answer>nhường đường cho xe đi trên đường ưu tiên hoặc đường chính từ bất kỳ hướng nào tới.</answer>
+	</test>
+	<test>
+	 	<question>tại nơi đường giao nhau không có báo hiệu đi theo vòng xuyến, người điều khiển phương tiện phải nhường đường như thế nào là đúng quy tắc giao thông?</question>
+	 	<answer>phải nhường đường cho xe đi đến từ bên phải.</answer>
+	</test>
+	<test>
+	 	<question>trên đoạn đường bộ giao nhau cùng mức  với  đường sắt thì loại phương tiện nào được quyền ưu tiên đi trước?</question>
+	 	<answer>phương tiện giao thông đường sắt.</answer>
+	</test>
+	<test>
+	 	<question>tại nơi đường bộ giao nhau cùng mức với đường sắt chỉ có đèn tín hiệu hoặc chuông báo hiệu, khi đèn tín hiệu màu đỏ đã bật sáng hoặc có tiếng chuông báo hiệu, người tham gia giao thông phải dừng lại ngay và giữ khoảng cách  tối  thiểu  bao  nhiêu  mét  tính  từ  ray gần nhất?</question>
+	 	<answer>5,00 m.</answer>
+	</test>
+	<test>
+	 	<question>người lái xe phải làm gì khi điều khiển xe vào đường cao tốc?</question>
+	 	<answer>phải có tín hiệu xin vào và phải nhường  đường cho xe đang chạy trên đường; khi thấy an toàn mới cho xe nhập vào dòng xe ở làn đường sát mép ngoài. nếu có làn đường tăng tốc thì phải cho xe chạy trên làn đường đó trước khi vào làn đường của đường cao tốc.</answer>
+	</test>
+	<test>
+	 	<question>người lái xe phải làm gì khi điều khiển xe ra khỏi đường cao tốc?</question>
+	 	<answer>phải thực hiện chuyển dần sang làn đường phía bên phải, nếu có làn đường giảm tốc thì cho xe chạy trên làn đường đó trước khi rời khỏi đường cao tốc.</answer>
+	</test>
+	<test>
+	 	<question>những trường hợp nào ghi ở dưới đây không được đi vào đường cao tốc trừ người, phương tiện, thiết bị phục vụ cho việc quản lí, bảo trì đường cao tốc?</question>
+	 	<answer>người đi bộ, xe thơ sơ, xe gắn máy, xe mô tô và xe máy chuyên dùng có tốc độ thiết kế nhỏ hơn 70 km/h.</answer>
+	</test>
+	<test>
+	 	<question>người điều khiển phương tiện khi tham gia giao thông trong hầm đường bộ ngoài việc phải tuân thủ các quy tắc giao thông còn phải thực hiện những quy định nào dưới đây?</question>
+	 	<answer>xe cơ giới, xe máy chuyên dùng phải bật đèn; xe thô sơ phải bật đèn hoặc có vật phát sáng báo hiệu; chỉ được dừng xe, đỗ xe ở nơi quy định.</answer>
+	</test>
+	<test>
+	 	<question>người ngồi trên xe mô tô 2 bánh, xe mô tô 3 bánh, xe gắn máy phải đội mũ bảo hiểm có cài quai đúng quy định khi nào?</question>
+	 	<answer>khi tham gia giao thông đường bộ.</answer>
+	</test>
+	<test>
+	 	<question>người điều khiển xe mô tô 2 bánh, xe gắn máy được phép chở tối đa 2 người trong những trường hợp nào?</question>
+	 	<answer>chở người bệnh đi cấp cứu; trẻ em dưới 14 tuổi áp giải người có hành vi vi phạm pháp luật</answer>
+	</test>
+	<test>
+	 	<question>người điều khiển xe mô tô hai bánh, xe mô tô ba bánh, xe gắn máy không được thực hiện những hành vi nào dưới đây?</question>
+	 	<answer>đi xe dàn hàng ngang. đi xe vào phần đường dành cho người đi bộ và phương tiện khác; sử dụng ô, điện thoại di động, thiết bị âm thanh (trừ thiết bị trợ thính).</answer>
+	</test>
+	<test>
+	 	<question>người điều khiển, người ngồi trên xe đạp máy phải đội mũ bảo hiểm có cài quai đúng quy cách khi nào?</question>
+	 	<answer>khi tham gia giao thông đường bộ.</answer>
+	</test>
+	<test>
+	 	<question>cơ quan nào quy định các đoạn đường cấm đi, đường đi một chiều, nơi cấm dừng, cấm đỗ, cấm quay đầu xe, lắp đặt báo hiệu đường bộ thuộc địa phương tiện quản lí?</question>
+	 	<answer>ủy ban nhân nhân cấp tỉnh.</answer>
+	</test>
+	<test>
+	 	<question>người điều khiển phương tiện và người liên quan trực tiếp đến vụ tai nạn có trách nhiệm gì?</question>
+	 	<answer>dừng ngay phương tiện; giữ nguyên hiện trường; cấp cứu người bị nạn và phải có mặt khi cơ quan có thẩm quyền yêu cầu; cung cấp thông tin xác thực về vụ tai nạn cho cơ quan có thẩm quyền. ở lại nơi xảy ta tai nạn cho đến khi người của cơ quan công an đến, trừ trường hợp người điều khiển phương tiện cũng bị thương phải đưa đi cấp cứu hoặc phải đưa người bị nạn đi cấp cứu hoặc vì lý do bị đe dọa đến tính mạng, nhưng phải đến trình báo ngay với cơ quan công an nơi gần nhất.</answer>
+	</test>
+	<test>
+	 	<question>những người có mặt tại nơi xảy ra vụ tai nạn giao thông có trách nhiệm gì?</question>
+	 	<answer>bảo vệ hiện trường, giúp đỡ, cứu chữa kịp thời người bị nạn, bảo vệ tài sản của người bị nạn báo tin ngay cho cơ quan công an, y tế hoặc ủy ban nhân dân nơi gần nhất; cung cấp thông tin xác thực về vụ tai nạn theo yêu cầu của cơ quan có thẩm quyền</answer>
+	</test>
+	<test>
+	 	<question>khi điều khiển xe chạy trên đường, người lái xe phải mang theo các loại giấy tờ gì?</question>
+	 	<answer>giấy phép lái xe phù hợp với loại xe đó, đăng ký xe, giấy chứng nhận kiểm định kỹ thuật và bảo vệ môi trường, giấy chứng nhận bảo hiểm trách nhiệm dân sự của chủ xe cơ giới và giấy phép vận chuyển (nếu loại xe đó cần phải có).</answer>
+	</test>
+	<test>
+	 	<question>người đủ bao nhiêu tuổi trở lên thì được điều khiển xe mô tô hai bánh, xe mô tô ba bánh có dung tích xi lanh từ 50 cm3 trở lên và các loại xe có kết cấu tương tự; xe ô tô tải, máy kéo có tải trọng dưới 3,5 tấn; xe ô tô chở người đến 9 chỗ ngồi?</question>
+	 	<answer>18 tuổi.</answer>
+	</test>
+	<test>
+	 	<question>tại ngã ba hoặc ngã tư không có đảm an toàn, người lái xe phải nhường đường như thế nào là đúng trong các trường hợp dưới đây?</question>
+	 	<answer>nhường đường cho người đi bộ đang đi trên phần đường dành cho người đi bộ sang đường. nhường đường cho xe đi trên đường ưu tiên, đường chính từ bất kỳ hướng nào tới, nhường đường cho xe ưu tiên, nhường đường cho xe đi từ bên phải đến.</answer>
+	</test>
+	<test>
+	 	<question>người đủ 16 tuổi được điều khiển các loại xe nào dưới đây?</question>
+	 	<answer>xe gắn máy có dung tích dưới 50 cm3.</answer>
+	</test>
+	<test>
+	 	<question>khi phát hiện hành vi giả khai báo mất hoặc tẩy xóa, làm sai lệch các thông tin trên giấy phép lái xe; sử dụng giấy phép lái xe hoặc đổi hồ sơ lái xe giả; có hành vi cố tình gian dối để được đổi, cấp mới, cấp lại giấy phép lái xe, ngoài việc bị cơ quan quản lý giấy phép lái xe ra quyết định thu hồi giấy phép lái xe và hồ sơ gốc còn phải chịu trách nhiệm trước pháp luật, người lái xe không được cấp giấy phép lái xe trong thời gian bao nhiêu năm?</question>
+	 	<answer>05 năm</answer>
+	</test>
+	<test>
+	 	<question>người lái xe mô tô xử lý như thế nào khi cho xe mô tô phía sau vượt?</question>
+	 	<answer>lái xe vào lề đường bên phải và giảm</answer>
+	</test>
+	<test>
+	 	<question>trong các trường hợp dưới đây, để đảm bảo an toàn khi tham gia giao thông, người lái xe mô tô cần thực hiện như thế nào?</question>
+	 	<answer>phải đội mũ bảo hiểm có cài quai đúng quy cách, mặc quần áo gọn gàng. không sử dụng ô, điện thoại di động, thiết bị âm thanh (trừ thiết bị trợ thính).</answer>
+	</test>
+	<test>
+	 	<question>đường bộ trong khu vực đông dân cư gồm những đường nào?</question>
+	 	<answer>đường bộ nằm trong khu vực nội thành phố, nội thị xã và những đoạn đường bộ được xác định từ vị trí có hiệu lực của biển báo hiệu "bắt đầu khu đông dân cư".</answer>
+	</test>
+	<test>
+	 	<question>trên đường bộ trong khu vực đông dân cư, xe mô tô hai bánh, xe gắn máy tham gia giao thông với tốc độ tối đa cho phép là bao nhiêu?</question>
+	 	<answer>40 km/h.</answer>
+	</test>
+	<test>
+	 	<question>trên đường bộ trong khu vực đông dân cư, loại xe nào tham gia giao thông với tốc độ tối đa cho phép là 40 km/h?</question>
+	 	<answer>ô tô chở người trên 30 chỗ ngồi, ô tơ tải có trọng tải từ 3500 kg trở lên, ô tô sơ mi rơ moóc, ô tô kéo xe khác, ô tô chuyên dùng, xe mô tô, xe gắn máy.</answer>
+	</test>
+	<test>
+	 	<question>trên đường bộ ngoài khu vực đông dân cư, loại xe nào tham gia giao thông với tốc độ tối đa cho phép là 50 km/h?</question>
+	 	<answer>ô tô kéo rơ moóc, ô tô kéo xe khác, xe gắn máy.</answer>
+	</test>
+	<test>
+	 	<question>khái niệm về văn hóa giao thông được hiểu như thế nào là đúng?</question>
+	 	<answer>là sự hiểu biết và chấp hành nghiêm chỉnh pháp luật  về giao thông; là ý thức trách nhiệm với cộng đồng khi tham gia giao thông là ứng xử có văn hóa, có tình yêu thương con người trong các tình huống không may xảy ra khi tham gia giao thông</answer>
+	</test>
+	<test>
+	 	<question>người lái xe cố tình vi phạm luật giao thông đường bộ, không phân biệt làn đường, vạch phân làn , phóng nhanh, vượt ẩu, vượt đèn đỏ, đi vào đường cấm, đường một chiều được coi là hành vi nào trong các hành vi sau đây?</question>
+	 	<answer>là thiếu văn hóa giao thông.</answer>
+	</test>
+	<test>
+	 	<question>trong các hành vi dưới đây, người lái xe mô tô có văn hóa giao thông phải ứng xử như thế nào?</question>
+	 	<answer>chấp hành quy định về tốc độ, đèn tín hiệu, bảng báo hiệu, vạch kẻ đường khi lái xe. chấp hành hiệu lệnh, chỉ dẫn của người điều khiển giao thông; nhường đường cho người đi bộ, người già, trẻ em, người khuyết tật. </answer>
+	</test>
+	<test>
+	 	<question>trong các hành vi dưới đây, người lái xe mô tô có văn hóa giao thông phải ứng xử như thế nào?</question>
+	 	<answer>điều khiển xe đi bên phải theo chiều đi của mình. đi đúng phần đường, làn đường quy định, đội mũ bảo hiểm đúng quy cách.</answer>
+	</test>
+	<test>
+	 	<question>người có văn hóa giao thông khi điều khiển xe cơ giới tham gia giao thông đường bộ phải đảm bảo các điều kiện gì?</question>
+	 	<answer>có giấy phép lái xe phù hợp với các loại xe được phép điều khiển; xe cơ giới đảm bảo các quy định về chất lượng, an toàn kỹ thuật và bảo vệ môi trường có giấy chứng nhận bảo hiểm trách nhiệm dân sự của chủ xe cơ giới còn hiệu lực; nộp phí sử dụng đường bộ theo quy định</answer>
+	</test>
+	<test>
+		<question>Trong các trường hợp dưới đây, để đảm bảo an toàn khi tham gia giao thông, <tp>người lái xe</tp> môtô cần <qt>thực hiện như thế nào</qt>?</question>
+		<answer>
+			Phải đội mũ bảo hiểm có cài quai đúng quy cách, mặc quần áo gọn gàng.
+			Không sử dụng ô, điện thoại di động, thiết bị âm thanh (trừ thiết bị trợ thính).
+		</answer>
+	</test>
+	<test>
+		<question>Người điều khiển xe môtô, xe gắn máy trên đường mà trong khí thở có nồng độ cồn <qt>vượt quá bao nhiêu thì bị cấm</qt>?</question>
+		<answer>
+			Nồng độ cồn vượt quá 0,25 miligam/1 lít khí thở.
+			Nồng độ cồn vượt quá 0,20 miligam/1 lít khí thở.
+			Nồng độ cồn vượt quá 0,15 miligam/1 lít khí thở.
+		</answer>
+	</test>
+	<test>
+		<question>Để đạt được hiệu quả phanh cao nhất, <tp>người lái xe</tp> <tv>môtô</tv> <qt>phải sử dụng kỹ năng như thế nào</qt>?</question>
+		<answer>
+			Sử dụng phanh trước.
+			Sử dụng phanh sau.
+			Sử dụng đồng thời cả phanh sau và phanh trước.
+			Giảm hết ga.
+		</answer>
+	</test>
+</root>

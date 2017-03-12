@@ -1,0 +1,46 @@
+<test>
+		<question>Người đủ <qt>bao nhiêu tuổi trở lên</qt> thì được điều khiển xe <tv>ôtô tải</tv>, <tv>máy kéo</tv> có <if1>trọng tải từ 3,5 tấn trở lên</if1>; <tv>xe hạng B2 kéo rơ-moóc</tv> (FB2)?</question>
+		<answer>
+			19 tuổi.
+			21 tuổi.
+			20 tuổi.
+		</answer>
+	</test>
+	<test>
+		<question>Người đủ <qt>bao nhiêu tuổi trở lên</qt> thì được điều khiển <tv>xe môtô hai bánh</tv>, <tv>xe môtô ba bánh</tv> có <if1>dung tích xi-lanh từ 50 cm3 trở lên</if1> và các loại xe có kết cấu tương tự; <tv>ôtô tải</tv>, <tv>máy kéo</tv> có <if1>trọng tải dưới 3,5 tấn</if1>; xe <tv>ôtô</tv> chở người đến 9 chỗ ngồi?</question>
+		<answer>
+			16 tuổi.
+			18 tuổi.
+			17 tuổi.
+		</answer>
+	</test>
+	<test>
+		<question><l>Tại nơi đường giao nhau</l>, khi <ti>người điều khiển giao thông</ti> ra hiệu lệnh bằng hai tay hoặc một tay giang ngang để báo hiệu thì <tp>người tham gia giao thông</tp> phải đi <qt>như thế nào là đúng</qt> quy tắc giao thông?</question>
+		<answer>
+			Người tham gia giao thông ở phía trước và ở phía sau người điều khiển giao thông phải dừng lại; người tham gia giao thông ở phía bên phải và bên trái người điều khiển được đi.
+			Người tham gia giao thông ở phía trước và ở phía sau người điều khiển giao thông được đi thẳng; người tham gia giao thông ở phía bên phải và bên trái người điều khiển được đi thẳng và rẽ phải.
+		</answer>
+	</test>
+	<test>
+		<question><l>Tại nơi đường giao nhau</l>, khi <ti>người điều khiển giao thông</ti> ra hiệu lệnh tay giơ thẳng đứng để báo hiệu thì <tp>người tham gia giao thông</tp> phải đi <qt>như thế nào</qt>?</question>
+		<answer>
+			Người tham gia giao thông ở phía trước và ở phía sau người điều khiển giao thông phải dừng lại; người tham gia giao thông ở phía bên phải và bên trái người điều khiển được đi.
+			Người tham gia giao thông ở các hướng phải dừng lại.
+			Tất cả các trường hợp trên.
+		</answer>
+	</test>
+	<test>
+		<question><l>Tại nơi đường giao nhau</l>, khi <ti>người điều khiển giao thông</ti> ra hiệu lệnh bằng tay phải giơ về phía trước để báo hiệu thì <tp>người tham gia giao thông</tp> phải đi <qt>như thế nào</qt>?</question>
+		<answer>
+			Người tham gia giao thông ở phía sau người điều khiển phải dừng lại; người ở phía trước người điều khiển được rẽ trái; người ở phía bên trái người điều khiển được rẽ trái; người đi bộ qua đường phải dừng lại sau lưng người điều khiển giao thông.
+			Người tham gia giao thông ở phía sau và bên phải người điều khiển phải dừng lại; người ở phía trước người điều khiển được rẽ phải; người ở phía bên trái người điều khiển giao thông được đi tất cả các hướng; người đi bộ qua đường phải đi sau lưng người điều khiển giao thông.
+		</answer>
+	</test>
+	<test>
+		<question>Trên đường giao thông, khi hiệu lệnh của <ti>người điều khiển giao thông</ti> trái với hiệu lệnh của đèn hoặc biển báo hiệu thì <tp>người tham gia giao thông</tp> <qt>phải chấp hành theo hiệu lệnh nào</qt>?</question>
+		<answer>
+			Hiệu lệnh của người điều khiển giao thông.
+			Hiệu lệnh của đèn điều khiển giao thông.
+			Hiệu lệnh của biển báo hiệu đường bộ.
+		</answer>
+	</test>

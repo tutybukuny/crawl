@@ -1,0 +1,515 @@
+	<test>
+		<question>"Vạch kẻ đường</ano>" <qt>được hiểu thế nào là đúng</qt>?</question>
+		<answer>
+			Vạch kẻ đường là vạch chỉ sự phân chia làn đường, vị trí hoặc hướng đi, vị trí dừng lại.
+			Vạch kẻ đường là vạch chỉ sự phân biệt vị trí dừng, đỗ trên đường.
+			Tất cả các ý nêu trên.
+		</answer>
+	</test>
+	<test>
+		<question>Khái niệm "<ano>đường chính</ano>" <qt>được hiểu như thế nào là đúng</qt>?</question>
+		<answer>
+			Đường chính là đường quốc lộ được đặt tên, số hiệu do cơ quan có thẩm quyền phân loại và quyết định.
+			Đường chính là đường bảo đảm giao thông chủ yếu trong khu vực.
+			Đường chính là đường <l>trong đô thị</l> hoặc đường tỉnh.
+		</answer>
+	</test>
+	<test>
+		<question>Tại nơi đường giao nhau, khi đèn điều khiển giao thông có tín hiệu vàng, người điều khiển phương tiện phải <qt>thực hiện như thế nào</qt>?</question>
+		<answer>
+			Phải cho xe dừng lại trước vạch dừng, trừ trường hợp đã đi quá vạch dừng thì được đi tiếp; trong trường hợp tín hiệu vàng nhấp nháy là được đi nhưng phải giảm tốc độ, chú ý quan sát, nhường đường cho người đi bộ qua đường.
+			Phải cho xe nhanh chóng vượt qua vạch dừng để đi qua đường giao nhau và chú ý đảm bảo an toàn; khi đèn tín hiệu vàng nhấp nháy là được đi nhưng phải giảm tốc độ, chú ý quan sát người đi bộ để bảo đảm an toàn.
+			Cả hai ý nêu trên.
+		</answer>
+	</test>
+	<test>
+		<question>Tại nơi đường giao nhau, khi người điều khiển giao thông ra hiệu lệnh bằng hai tay hoặc một tay giang ngang để báo hiệu thì người tham gia giao thông phải đi <qt>như thế nào là đúng</qt> quy tắc giao thông?</question>
+		<answer>
+			Người tham gia giao thông ở phía trước và ở phía sau người điều khiển giao thông phải dừng lại; người tham gia giao thông ở phía bên phải và bên trái người điều khiển được đi.
+			Người tham gia giao thông ở phía trước và ở phía sau người điều khiển giao thông được đi thẳng; người tham gia giao thông ở phía bên phải và bên trái người điều khiển được đi thẳng và rẽ phải.
+		</answer>
+	</test>
+	<test>
+		<question>Tại nơi đường giao nhau, khi người điều khiển giao thông ra hiệu lệnh tay giơ thẳng đứng để báo hiệu thì người tham gia giao thông phải đi <qt>như thế nào</qt>?</question>
+		<answer>
+			Người tham gia giao thông ở phía trước và ở phía sau người điều khiển giao thông phải dừng lại; người tham gia giao thông ở phía bên phải và bên trái người điều khiển được đi.
+			Người tham gia giao thông ở các hướng phải dừng lại.
+			Tất cả các trường hợp trên.
+		</answer>
+	</test>
+	<test>
+		<question>Tại nơi đường giao nhau, khi người điều khiển giao thông ra hiệu lệnh bằng tay phải giơ về phía trước để báo hiệu thì người tham gia giao thông phải đi <qt>như thế nào</qt>?</question>
+		<answer>
+			Người tham gia giao thông ở phía sau người điều khiển phải dừng lại; người ở phía trước người điều khiển được rẽ trái; người ở phía bên trái người điều khiển được rẽ trái; người đi bộ qua đường phải dừng lại sau lưng người điều khiển giao thông.
+			Người tham gia giao thông ở phía sau và bên phải người điều khiển phải dừng lại; người ở phía trước người điều khiển được rẽ phải; người ở phía bên trái người điều khiển giao thông được đi tất cả các hướng; người đi bộ qua đường phải đi sau lưng người điều khiển giao thông.
+		</answer>
+	</test>
+	<test>
+		<question>"Vạch kẻ đường</ano>" <qt>được hiểu thế nào là đúng</qt>?</question>
+		<answer>
+			Vạch kẻ đường là vạch chỉ sự phân chia làn đường, vị trí hoặc hướng đi, vị trí dừng lại.
+			Vạch kẻ đường là vạch chỉ sự phân biệt vị trí dừng, đỗ trên đường.
+			Tất cả các ý nêu trên.
+		</answer>
+	</test>
+	<test>
+		<question>Tại nơi có biển hiệu cố định lại có báo hiệu tạm thời thì người tham gia giao thông <qt>phải chấp hành hiệu lệnh của báo hiệu nào</qt>?</question>
+		<answer>
+			Biển báo hiệu cố định.
+			Biển báo hiệu tạm thời.
+		</answer>
+	</test>
+	<test>
+		<question>Trên đường có nhiều làn đường cho xe đi cùng chiều được phân biệt bằng vạch kẻ phân làn đường, người điều khiển phương tiện phải cho xe đi <qt>như thế nào</qt>?</question>
+		<answer>
+			Cho xe đi trên bất kỳ làn đường nào; khi cần thiết phải chuyển làn đường, <tp>người lái xe</tp> phải có đèn tín hiệu báo trước và phải bảo đảm an toàn.
+			Phải cho xe đi trong một làn đường và chỉ được chuyển làn đường ở những nơi cho phép; khi chuyển làn phải có tín hiệu báo trước và phải bảo đảm an toàn.
+			Phải cho xe đi trong một làn đường, khi chuyển làn đường phải có tín hiệu báo trước, chú ý quan sát để bảo đảm an toàn.
+		</answer>
+	</test>
+	<test>
+		<question><l>Trên đường một chiều</l> có vạch kẻ phân làn đường, xe thô sơ và xe cơ giới phải đi <qt>như thế nào là đúng</qt> quy tắc giao thông?</question>
+		<answer>
+			Xe thô sơ phải đi trên làn đường bên trái trong cùng, xe cơ giới, xe máy chuyên dùng đi trên làn đường bên phải.
+			Xe thô sơ phải đi trên làn đường bên phải trong cùng; xe cơ giới, xe máy chuyên dùng đi trên làn đường bên trái.
+			Xe thô sơ đi trên làn đường phù hợp không gây cản trở giao thông, xe cơ giới, xe máy chuyên dùng đi trên làn đường bên phải.
+		</answer>
+	</test>
+	<test>
+		<question>Trên đường bộ trong khu vực đông dân cư, <qt>loại xe nào</qt> tham gia giao thông với tốc độ tối đa cho phép là 40 km/h?</question>
+		<answer>
+			Ôtô chở người trên 30 chỗ ngồi, <tv>ôtô</tv> tải có trọng tải từ 3500 kg trở lên, <tv>ôtô</tv> sơ mi rơ moóc, <tv>ôtô</tv> kéo rơ moóc, <tv>ôtô</tv> kéo xe khác, <tv>ôtô</tv> chuyên dùng, xe môtô, xe gắn máy.
+			Ôtô chở người đến 30 chỗ ngồi, <tv>ôtô</tv> tải có trọng tải dưới 3.500 kg.
+			Xe máy kéo, xe công nông, xe lam, xe lôi máy, xe xích lô máy, xe ba gác máy, xe máy chuyên dùng và các loại xe tương tự (loại đang được phép hoạt động).
+		</answer>
+	</test>
+	<test>
+		<question>Người nhận hàng <qt>có các quyền gì</qt> được ghi ở dưới đây?</question>
+		<answer>
+			Nhận và kiểm tra hàng hóa nhận được theo giấy vận chuyển hoặc chứng từ tương đương khác; yêu cầu người kinh doanh vận tải thanh toán chi phí phát sinh do giao hàng hóa chậm.
+			Yêu cầu hoặc thông báo cho người thuê vận tải để yêu cầu người kinh doanh vận tải bồi thường thiệt hại do mất mát, hư hỏng hàng hóa, yêu cầu giám định hàng hóa khi cần thiết.
+			Nhận hàng hóa không theo giấy vận chuyển hoặc chứng từ tương đương khác.
+		</answer>
+	</test>
+	<test>
+		<question><tp>Người lái xe</tp> và nhân viên phục vụ trên xe <tv>ôtô</tv> vận tải hành khách <qt>phải có những trách nhiệm gì</qt> theo quy định được ghi ở dưới đây?</question>
+		<answer>
+			Kiểm tra các điều kiện bảo đảm an toàn của xe trước khi khởi hành; có thái độ văn minh, lịch sự, hướng dẫn hành khách ngồi đúng nơi quy định; kiểm tra việc sắp xếp, chằng buộc hành lý, bảo đảm an toàn
+			Có biện pháp bảo vệ tính mạng, sức khỏe, tài sản của hành khách đi xe, giữ gìn trật tự, vệ sinh trong xe; đóng cửa lên xuống của xe trước và trong khi xe chạy.
+		</answer>
+	</test>
+	<test>
+		<question>Khi sơ cứu người bị tai nạn giao thông đường bộ, có vết thương chảy máu ngoài đỏ sẫm trào đều trên mặt vết thương, máu chảy ra số lượng ít bạn <qt>phải làm gì</qt>?</question>
+		<answer>
+			Thực hiên cầm máu trực tiếp.
+			Thực hiện cầm máu không trực tiếp (chặn động mạch).
+			Thực hiện cầm máu bằng garo.
+		</answer>
+	</test>
+	<test>
+		<question>Khi động cơ <tv>ôtô</tv> đã khởi động, bảng đồng hồ xuất hiện ký hiệu như hình vẽ dưới dây, báo hiệu tình trạng <qt>như thế nào</qt> của xe ôtô?</question>
+		<answer>
+			Thiếu dầu phanh, phanh tay đang hãm.
+			Hệ thống túi khí an toàn gặp sự cố.
+			Lái xe và người ngồi ghế trước chưa cài dây an toàn.
+			Cửa đóng chưa chặt, có cửa chưa đóng.
+		</answer>
+	</test>
+	<test>
+		<question>Mục đích bảo dưỡng thường xuyên đối với <tv>ôtô</tv> <qt>có tác dụng gì</qt>?</question>
+		<answer>
+			Bảo dưỡng thường xuyên làm cho <tv>ôtô</tv> luôn luôn có tính năng kỹ thuật tốt, giảm cường độ hao mòn của các chi tiết.
+			Ngăn ngừa và phát hiện kịp thời các hư hỏng và sai lệch kỹ thuật để khắc phục, giữ gìn được hình thức bên ngoài.
+		</answer>
+	</test>
+	<test>
+		<question>Trong các nguyên nhân dưới đây, <qt>nguyên nhân nào</qt> làm động cơ diesel không nổ?</question>
+		<answer>
+			Hết nhiên liệu, lõi lọc nhiên liệu bị tắc, lọc khí bị tắc, nhiên liệu lẫn không khí.
+			Hết nhiên liệu, lõi lọc nhiên liệu bị tắc, lọc khí bị tắc, nhiên liệu lẫn không khí. Không có tia lửa điện.
+			Hết nhiên liệu, lõi lọc nhiên liệu bị tắc, lọc khí bị tắc, nhiên liệu lẫn không khí và nước. Không có tia lửa điện.
+		</answer>
+	</test>
+	<test>
+		<question>Khái niệm "<ano>đường cao tốc</ano>" <qt>được hiểu như thế nào là đúng</qt>?</question>
+		<answer>
+			Là đường dành cho xe cơ giới, có dải phân cách chia đường cho xe chạy hai chiều riêng biệt; không giao nhau cùng mức với một hoặc các đường khác; được bố trí đầy đủ trang thiết bị phục vụ, bảo đảm giao thông liên tục, an toàn, rút ngắn thời gian hành trình và chỉ cho xe ra, vào ở những điểm nhất định.
+			Là đường chỉ dành cho xe cơ giới chạy với tốc độ cao, có dải phân cách chia đường cho xe chạy hai chiều ngược nhau riêng biệt; không giao cắt cùng mức với đường khác; bố trí đầy đủ trang thiết bị phục vụ bảo đảm giao thông, an toàn và rút ngắn thời gian hành trình.
+		</answer>
+	</test>
+	<test>
+		<question>Người điều khiển xe môtô hai bánh, ba bánh, xe gắn máy <qt>có được phép sử dụng</qt> xe để kéo, đẩy các xe khác, vật khác khi tham gia giao thông <qt>không</qt>?</question>
+		<answer>
+			Được phép.
+			Tuỳ trường hợp.
+			Không được phép.
+		</answer>
+	</test>
+	<test>
+		<question>Người ngồi trên xe môtô hai bánh, ba bánh, xe gắn máy khi tham gia giao thông <qt>không được thực hiện những hành vi nào</qt> dưới đây?</question>
+		<answer>
+			Đội mũ bảo hiểm và cài quai đúng quy cách.
+			Sử dụng ô; bám, kéo hoặc đẩy các phương tiện khác.
+			Đứng trên yên, giá đèo hàng hoặc ngồi trên tay lái; các hành vi khác gây mất trật tự an toàn giao thông.
+		</answer>
+	</test>
+	<test>
+		<question>Người ngồi trên xe môtô hai bánh, xe môtô ba bánh, xe gắn máy khi tham gia giao thông <qt>có được</qt> mang, vác vật cồng kềnh hay <qt>không</qt>?</question>
+		<answer>
+			Được mang, vác tuỳ trường hợp cụ thể.
+			Không được mang, vác.
+			Được mang, vác nhưng phải đảm bảo an toàn.
+		</answer>
+	</test>
+	<test>
+		<question>Khi điều khiển xe môtô hai bánh, xe môtô ba bánh, xe gắn máy, <qt><qt>Những hành vi nào</qt> không được phép</qt>?</question>
+		<answer>
+			Buông cả hai tay hoặc đi xe bằng một bánh đối với xe hai bánh, bằng hai bánh đối với xe ba bánh; chạy quá tốc độ quy định.
+			Sử dụng xe để kéo, đẩy xe khác, vật khác và chở vật cồng kềnh; để chân chống quẹt xuống đất và các hành vi khác gây mất trật tự an toàn giao thông.
+			Chạy đúng tốc độ quy định và chấp hành đúng quy tắc giao thông đường bộ.
+		</answer>
+	</test>
+	<test>
+		<question>Việc họp chợ, tụ tập đông người trái phép, thả rông súc vật trên đường bộ <qt>có được phép hay không</qt>?</question>
+		<answer>
+			Không được phép.
+			Được phép.
+			Được phép trong một số trường hợp cụ thể.
+		</answer>
+	</test>
+	<test>
+		<question>Bảo đảm trật tự, an toàn giao thông đường bộ <qt>là trách nhiệm của ai</qt>?</question>
+		<answer>
+			Là trách nhiệm của ngành Giao thông vận tải và ngành Công an.
+			Là trách nhiệm của cơ quan, tổ chức, cá nhân.
+			Là trách nhiệm của cảnh sát giao thông.
+		</answer>
+	</test>
+	<test>
+		<question>Người tham gia giao thông <qt>phải chấp hành quy tắc nào</qt> dưới đây?</question>
+		<answer>
+			Phải đi bên trái của đường đi, đi đúng làn đường, phần đường quy định và phải chấp hành biển báo hiệu đường bộ; <tv>ôtô</tv> có trang bị dây an toàn thì <tp>người lái xe</tp> phải thắt dây an toàn.
+			Phải đi bên phải theo chiều đi của mình, đi đúng làn đường, phần đường quy định và phải chấp hành hệ thống báo hiệu đường bộ; xe <tv>ôtô</tv> có trang bị dây an toàn thì <tp>người lái xe</tp> và người ngồi hàng ghế phía trước trong xe <tv>ôtô</tv> phải thắt dây an toàn.
+		</answer>
+	</test>
+	<test>
+		<question>Trên đường bộ trong khu vực đông dân cư, xe môtô hai bánh, xe gắn máy tham gia giao thông với <qt>tốc độ tối đa cho phép là bao nhiêu</qt>?</question>
+		<answer>
+			60 km/h.
+			50 km/h.
+			40 km/h.
+			30 km/h.
+		</answer>
+	</test>
+	<test>
+		<question>Người thuê vận tải hàng hóa <qt>có các nghĩa vụ gì</qt> theo quy định được ghi ở dưới đây?</question>
+		<answer>
+			Chuẩn bị đầy đủ các giấy tờ hợp pháp về hàng hóa trước khi giao hàng hóa cho người kinh doanh vận tải; đóng gói hàng hóa đúng quy cách, ghi ký hiệu, mã hiệu hàng hóa đầy đủ, rõ ràng; giao hàng hóa cho người kinh doanh vận tải đúng thời gian, địa điểm và nội dung khác ghi trong giấy gửi hàng.
+			Thanh toán đủ cước, phí vận tải và chi phí phát sinh cho người kinh doanh vận tải; cử người áp tải hàng hóa trong quá trình vận tải đối với loại hàng hóa bắt buộc phải có người áp tải.
+		</answer>
+	</test>
+	<test>
+		<question><tp>Người lái xe</tp> vận tải hàng hóa <qt>cần thực hiện những nhiệm vụ gì</qt> ghi ở dưới đây?</question>
+		<answer>
+			Thực hiện nghiêm chỉnh những nội dung hợp đồng giữa chủ phương tiện với chủ hàng trong việc vận chuyển và bảo quản hàng hóa trong quá trình vận chuyển; không chở hàng cấm, không xếp hàng quá trọng tải của xe, quá trọng tải cho phép của cầu, đường.
+			Khi vận chuyển hàng quá khổ, quá tải, hàng nguy hiểm, hàng siêu trường, siêu trọng phải có giấy phép, phải tôn trọng và thực hiện nghiêm ngặt những quy định về vận chuyển hàng quá khổ, quá tải, hàng siêu trường, siêu trọng, hàng nguy hiểm.
+		</answer>
+	</test>
+	<test>
+		<question><tp>Người lái xe</tp> kinh doanh vận tải <qt>cần thực hiện những công việc gì</qt> ghi ở dưới đây để thường xuyên rèn luyện nâng cao đạo đức nghề nghiệp?</question>
+		<answer>
+			Phải yêu quý xe, quản lý và sử dụng xe tốt; bảo dưỡng xe đúng định kỳ; thực hành tiết kiệm vật tư, nhiên liệu; luôn tu dưỡng bản thân, có lối sống lành mạnh, tác phong làm việc công nghiệp.
+			Nắm vững các quy định của pháp luật, tự giác chấp hành pháp luật, lái xe an toàn; coi hành khách như người thân, là đối tác tin cậy; có ý thức tổ chức kỷ luật và xây dựng doanh nghiệp vững mạnh; có tinh thần hợp tác, tương trợ, giúp đỡ đồng nghiệp.
+		</answer>
+	</test>
+	<test>
+		<question>Ngoài các phẩm chất của con người mới xã hội chủ nghĩa, <tp>người lái xe</tp> <qt>cần phải có phẩm chất đạo đức nghề nghiệp gì</qt> ghi ở dưới đây?</question>
+		<answer>
+			Tính tổ chức, kỷ luật, tuân thủ pháp luật; có tác phong làm việc công nghiệp, giúp đỡ mọi người.
+			Độc lập công tác và có tinh thần khắc phục khó khăn.
+		</answer>
+	</test>
+	<test>
+		<question><tp>Người lái xe</tp> cố tình vi phạm luật giao thông đường bộ, không phân biệt làn đường, vạch phân làn, phóng nhanh, vượt ẩu, vượt đèn đỏ, đi vào đường cấm, đường một chiều <qt>được coi là hành vi nào</qt> trong các hành vi sau đây?</question>
+		<answer>
+			Là bình thường.
+			Là thiếu văn hóa giao thông.
+			Là có văn hóa giao thông.
+		</answer>
+	</test>
+	<test>
+		<question>Khi động cơ <tv>ôtô</tv> đã khởi động, bảng đồng hồ xuất hiện ký hiệu như hình vẽ dưới đây, báo hiệu tình trạng <qt>như thế nào</qt> của xe ôtô?</question>
+		<answer>
+			Cửa xe đóng chưa chặt.
+			Có cửa xe chưa đóng.
+			Bộ nạp ắc quy gặp sự cố kỹ thuật.
+			Dầu bôi trơn bị thiếu.
+		</answer>
+	</test>
+	<test>
+		<question><qt>Hãy nêu</qt> yêu cầu về an toàn kỹ thuật đối với bánh xe lắp cho ôtô?</question>
+		<answer>
+			Đúng số lượng, đủ áp suất, đúng cỡ lốp của nhà sản xuất hoặc tài liệu kỹ thuật quy định, lốp bánh dẫn hướng hai bên cùng kiểu hoa lốp, chiều cao hoa lốp đồng đều, không sử dụng lốp đắp, lốp không mòn đến đầu chỉ báo độ mòn của nhà sản xuất, không nứt, vỡ, phồng rộp làm hở lớp sợi mành.
+			Vành, đĩa vành đúng kiểu loại, không rạn, nứt, cong vênh; bánh xe quay trơn, không bị bó kẹp hoặc cọ sát vào phần khác, moay ơ không bị rơ; lắp đặt chắc chắn, đủ các chi tiết kẹp chặt và phòng lỏng.
+		</answer>
+	</test>
+	<test>
+		<question>Âm lượng của còi điện lắp cho <tv>ôtô</tv> (đo ở độ cao 1,2 m với khoảng cách 2 m tính từ đầu xe) <qt>là bao nhiêu</qt>?</question>
+		<answer>
+			Không nhỏ hơn 90 dB (A), không lớn hơn 115 dB (A).
+			Không nhỏ hơn 80 dB (A), không lớn hơn 105 dB (A).
+			Không nhỏ hơn 70 dB (A), không lớn hơn 90 dB (A).
+		</answer>
+	</test>
+	<test>
+		<question>Khái niệm "<ano>dải phân cách</ano>" <qt>được hiểu như thế nào là đúng</qt>?</question>
+		<answer>
+			Là bộ phận của đường để phân chia mặt đường thành hai chiều xe chạy riêng biệt hoặc để phân chia phần đường của xe cơ giới và xe thô sơ.
+			Là bộ phận của đường để xác định ranh giới của đất dành cho đường bộ theo chiều ngang của đường.
+			Là bộ phận của đường để ngăn cách không cho các loại xe vào những nơi không được phép.
+		</answer>
+	</test>
+	<test>
+		<question><tp>Người lái xe</tp> không được vượt xe khác khi gặp <qt>trường hợp nào</qt> ghi ở dưới đây ?</question>
+		<answer>
+			Trên cầu hẹp có một làn xe; nơi đường giao nhau, đường bộ giao nhau cùng mức với đường sắt.
+			Điều kiện thời tiết hoặc đường không bảo đảm an toàn cho việc vượt; xe ưu tiên đang phát tín hiệu ưu tiên làm nhiêm vụ.
+		</answer>
+	</test>
+	<test>
+		<question><qt>Ở những nơi nào</qt> không được quay đầu xe?</question>
+		<answer>
+			Ở phần đường dành cho người đi bộ qua đường, đường hẹp, đường dốc, đoạn đường cong tầm nhìn bị che khuất.
+			Tại nơi đường bộ giao nhau cùng mức.
+			Trên cầu, đầu cầu, gầm cầu vượt, ngầm, trong hầm đường bộ, đường cao tốc, tại nơi đường bộ giao nhau cùng mức với đường sắt.
+		</answer>
+	</test>
+	<test>
+		<question>Trên đường giao thông, khi hiệu lệnh của người điều khiển giao thông trái với hiệu lệnh của đèn hoặc biển báo hiệu thì người tham gia giao thông <qt>phải chấp hành theo hiệu lệnh nào</qt>?</question>
+		<answer>
+			Hiệu lệnh của người điều khiển giao thông.
+			Hiệu lệnh của đèn điều khiển giao thông.
+			Hiệu lệnh của biển báo hiệu đường bộ.
+		</answer>
+	</test>
+	<test>
+		<question><qt>Ở những nơi nào</qt> không được lùi xe?</question>
+		<answer>
+			Ở khu vực cho phép đỗ xe.
+			Ở khu vực cấm dừng và trên phần đường dành cho người đi bộ qua đường.
+			Nơi đường bộ giao nhau, đường bộ giao nhau cùng mức với đường sắt, nơi tầm nhìn bị che khuất, trong hầm đường bộ, đường cao tốc.
+		</answer>
+	</test>
+	<test>
+		<question>Người điều khiển phương tiện giao thông trên đường phố <qt>có được</qt> dừng xe, đỗ xe trên đường xe điện, trên miệng cống thoát nước, miệng hầm của đường điện thoại, điện cao thế, chỗ dành riêng cho xe chữa cháy lấy nước <qt>hay không</qt>?</question>
+		<answer>
+			Được dừng xe, đỗ xe trong trường hợp cần thiết.
+			Không được dừng xe, đỗ xe.
+			Được dừng xe, đỗ xe.
+			Được dừng xe.
+		</answer>
+	</test>
+	<test>
+		<question>Khi điều khiển xe <l>Trên đường cao tốc</l>, <qt>những việc nào không cho phép</qt>?</question>
+		<answer>
+			Cho xe chạy ở làn dừng xe khẩn cấp và phần lề đường; quay đầu xe, lùi xe; cho xe chạy quá tốc độ tối đa và dưới tốc độ tối thiểu ghi trên biển báo, sơn kẻ trên mặt đường.
+			Cho xe chạy quá tốc độ tối thiểu và dưới tốc độ tối đa ghi trên biển báo, sơn kẻ trên mặt đường.
+			Dừng xe, đỗ xe ở nơi quy định.
+		</answer>
+	</test>
+	<test>
+		<question>Khi xe kéo xe và xe kéo rơ-moóc, <qt><qt>Những hành vi nào</qt> không được phép</qt>?</question>
+		<answer>
+			Xe kéo rơ moóc, xe kéo sơ mi rơ moóc kéo thêm rơ moóc hoặc xe khác.
+			Chở người trên xe được kéo; kéo theo xe thô sơ, xe gắn máy, xe môtô.
+			Chở hàng trên rơ moóc hoặc sơ mi rơ moóc.
+		</answer>
+	</test>
+	<test>
+		<question>Xe máy kéo, xe công nông, xe lam, xe lôi máy, xe xích lô máy, xe ba gác máy, xe máy chuyên dùng và các loại xe tương tự (loại đang được phép hoạt động) tham gia giao thông đi <qt>tốc độ tối đa cho phép là bao nhiêu</qt>?</question>
+		<answer>
+			60 km/h.
+			50 km/h.
+			40 km/h.
+			30 km/h.
+		</answer>
+	</test>
+	<test>
+		<question>Người thuê vận tải hàng hóa <qt>có các quyền hạn gì</qt> theo quy định được ghi ở dưới dây?</question>
+		<answer>
+			Từ chối xếp hàng lên phương tiện mà phương tiện đó không đúng thỏa thuận trong hợp đồng; yêu cầu người kinh doanh vận tải giao hàng đúng thời gian, địa điểm đã thỏa thuận trong hợp đồng; yêu cầu người kinh doanh vận tải bồi thường thiệt hại theo quy định của pháp luật.
+			Từ chối xếp hàng hóa lên phương tiện khi thấy phương tiện đó không phù hợp với yêu cầu; yêu cầu người kinh doanh vận tải giao hàng trước thời hạn đã thỏa thuận trong hợp đồng; yêu cầu người kinh doanh vận tải bồi thường thiệt hại khi người kinh doanh vận tải gây thiệt hại.
+		</answer>
+	</test>
+	<test>
+		<question><tp>Người lái xe</tp> kinh doanh vận tải khi thực hiện tốt việc rèn luyện, nâng cao trách nhiệm, đạo đức nghề nghiệp sẽ thu được kết quả <qt>như thế nào</qt>?</question>
+		<answer>
+			Được khách hàng, xã hội tôn trọng; được đồng nghiệp quý mến, giúp đỡ; được doanh nghiệp tin dùng và đóng góp nhiều cho xã hội.
+			Thu hút được khách hàng, góp phần quan trọng trong xây dựng thương hiệu, kinh doanh có hiệu quả cao.
+		</answer>
+	</test>
+	<test>
+		<question><qt>Hãy nêu</qt> trách nhiệm cơ bản của các tổ chức trong việc quản lý, giáo dục và nâng cao đạo đức nghề nghiệp của người lái xe?</question>
+		<answer>
+			Tuyên truyền phổ biến các quy định của pháp luật đặc biệt là các quy định của Luật Giao thông đường bộ, các văn bản quản lý về vận tải để <tp>người lái xe</tp> biết và thực hiện; thường xuyên kiểm tra giám sát <tp>người lái xe</tp> thực hiện các nội quy, quy chế của đơn vị.
+			Hiểu tâm lý, nguyện vọng của người lái xe, động viên họ trong lúc khó khăn, thực hiện đầy đủ các quy định của pháp luật về quyền lợi của người lao động, quan tâm đến đời sống vật chất, tinh thần của họ, có chế độ thưởng phạt nghiêm minh giúp họ hoàn thành nhiệm vụ.
+		</answer>
+	</test>
+	<test>
+		<question><tp>Người lái xe</tp> khách, xe buýt <qt>cần thực hiện những nhiệm vụ gì</qt> ghi ở dưới đây?</question>
+		<answer>
+			Luôn có ý thức về tính tổ chức, kỷ luật, thực hiện nghiêm biểu đồ chạy xe được phân công; thực hiện đúng hành trình, lịch trình, đón trả khách đúng nơi quy định, vận hành phương tiện theo đúng quy trình kỹ thuật đảm bảo an toàn cho người và phương tiện với tinh thần trách nhiêm cao.
+			Giúp đỡ hành khách khi đi xe, đặc biệt là nhưng người khuyết tật, người già, trẻ em và phụ nữ có thai, có con nhỏ; tôn trọng và có trách nhiệm cao với khách hàng.
+		</answer>
+	</test>
+	<test>
+		<question>Trên làn đường dành cho <tv>ôtô</tv> có vũng nước lớn, có nhiều người đi xe môtô trên làn đường bên cạnh, <tp>người lái xe</tp> <tv>ôtô</tv> <qt>xử lý như thế nào</qt> là có văn hoá giao thông?</question>
+		<answer>
+			Cho xe chạy thật nhanh qua vũng nước.
+			Giảm tốc độ cho xe chạy chậm qua vũng nước.
+			Giảm tốc độ cho xe chạy qua làn đường dành cho môtô để tránh vũng nước.
+		</answer>
+	</test>
+	<test>
+		<question>Khi động cơ <tv>ôtô</tv> đã khởi động, bảng đồng hồ xuất hiện ký hiệu như hình vẽ dưới đây, báo hiệu tình trạng <qt>như thế nào</qt> của xe ôtô?</question>
+		<answer>
+			Phanh tay đang hãm.
+			Thiếu dầu phanh.
+			Nhiệt độ nước làm mát quá mức cho phép.
+			Dầu bôi trơn bị thiếu.
+		</answer>
+	</test>
+	<test>
+		<question><tv>Ôtô</tv> tham gia giao thông trên đường bộ <qt>phải có đủ các loại đèn gì</qt>?</question>
+		<answer>
+			Đèn chiếu sáng gần và xa.
+			Đèn soi biển số, đèn báo hãm và đèn tín hiệu.
+			Dàn đèn pha trên nóc xe.
+		</answer>
+	</test>
+	<test>
+		<question><qt>Hãy nêu</qt> yêu cầu của kính chắn gió ôtô?</question>
+		<answer>
+			Là loại kính an toàn, kính nhiều lớp, đúng quy cách, không rạn nứt, đảm bảo hình ảnh quan sát rõ ràng, không bị méo mó.
+			Là loại kính trong suốt đúng quy cách, không rạn nứt, đảm bảo tầm nhìn cho người điều khiển phía trước mặt và hai bên.
+			Cả hai ý nêu trên.
+		</answer>
+	</test>
+	<test>
+		<question>Khái niệm "<ano>đường phố’</ano>" <qt>được hiểu như thế nào là đúng</qt>?</question>
+		<answer>
+			Đường phố là đường đô thị, gồm lòng đường và hè phố.
+			Đường phố là đường bộ ngoài đô thị có lòng đường đủ rộng cho các phương tiện giao thông qua lại.
+			Cả 2 ý nêu trên.
+		</answer>
+	</test>
+	<test>
+		<question>Hành vi giao xe cơ giới, xe máy chuyên dùng cho người không đủ điều kiện để điều khiển xe tham gia giao thông <qt>có bị nghiêm cấm hay không</qt>?</question>
+		<answer>
+			Không bị nghiêm cấm.
+			bị nghiêm cấm.
+			Nghiêm cấm tuỳ từng trường hợp.
+		</answer>
+	</test>
+	<test>
+		<question>Hành vi điều khiển xe cơ giới chạy quá tốc độ quy định, giành đường, vượt ẩu <qt>có bị nghiêm cấm hay không</qt>?</question>
+		<answer>
+			bị nghiêm cấm.
+			bị nghiêm cấm tuỳ từng trường hợp.
+			Không bị nghiêm cấm.
+		</answer>
+	</test>
+	<test>
+		<question><qt>Những hành vi nào</qt> sau đây bị cấm?</question>
+		<answer>
+			Bấm còi, rú ga liên tục, bấm còi trong thời gian từ 22 giờ đến 5 giờ.
+			Bấm còi hơi, sử dụng đèn chiếu xa trong khu đô thị và khu dân cư, trừ các xe ưu tiên khi đang làm nhiêm vụ.
+		</answer>
+	</test>
+	<test>
+		<question>Hành vi bỏ trốn sau khi gây tai nạn để trốn tránh trách nhiệm hoặc khi có điều kiện mà cố ý không cứu giúp người bị tai nạn giao thông <qt>có bị nghiêm cấm hay không</qt>?</question>
+		<answer>
+			Không bị nghiêm cấm.
+			Nghiêm cấm tuỳ từng trường hợp cụ thể.
+			bị nghiêm cấm.
+		</answer>
+	</test>
+	<test>
+		<question><if4>Khi xảy ra tai nạn giao thông</if4>, <qt>Những hành vi nào</qt> ghi ở duới đây <qt>bị nghiêm cấm</qt>?</question>
+		<answer>
+			Xâm phạm tính mạng, sức khoẻ, tài sản của người bị tai nạn giao thông; xâm phạm tính mạng, sức khoẻ, tài sản của người gây tai nạn giao thông.
+			Lợi dụng việc xảy ra tai nạn giao thông để hành hung, đe doạ, xúi giục, gây sức ép, làm mất trật tự, cản trở việc xử lý tai nạn giao thông.
+		</answer>
+	</test>
+	<test>
+		<question><qt>Những hành vi nào</qt> ghi ở dưới đây <qt>bị nghiêm cấm</qt>?</question>
+		<answer>
+			Sử dụng hè phố để đi bộ.
+			Sử dụng lòng đường, lề đường trái phép.
+			Sử dụng hè phố trái phép.
+		</answer>
+	</test>
+	<test>
+		<question>Việc sản xuất, mua bán, sử dụng biển số xe cơ giới, xe máy chuyên dùng được quy định <qt>như thế nào</qt> trong luật giao thông đường bộ?</question>
+		<answer>
+			Nghiêm cấm sản xuất, được phép sử dụng.
+			Nghiêm cấm mua bán, cho phép sử dụng.
+			Nghiêm cấm sản xuất, mua bán, sử dụng trái phép.
+		</answer>
+	</test>
+	<test>
+		<question>Người kinh doanh vận tải hàng hóa <qt>có các nghĩa vụ gì</qt> theo quy định được ghi ở dưới đây?</question>
+		<answer>
+			Cung cấp phương tiện đúng loại, thời gian, địa điểm và giao hàng hóa cho người nhận hàng theo thỏa thuận trong hợp đồng; hướng dẫn xếp dỡ hàng hóa trên phương tiện.
+			Bồi thường thiệt hại cho người thuê vận tải do mất mát, hư hỏng hàng hóa xảy ra trong quá trình vận tải từ lúc nhận hàng đến lúc giao hàng, trừ trường hợp miễn bồi thường thiệt hại theo quy định của pháp luật; bồi thường thiệt hại do người làm công, người đại diện gây ra trong khi thực hiện công việc được người kinh doanh vận tải giao; chịu trách nhiệm về hậu quả mà người làm công; người đại diện gây do thực hiện yêu cầu của người kinh doanh vận tải trái với quy định của pháp luật.
+		</answer>
+	</test>
+	<test>
+		<question><ano>Đạo đức cơ bản của mỗi con người</ano>, của <tp>người lái xe</tp> <qt>thể hiện ở những điểm nào</qt> ghi dưới đây?</question>
+		<answer>
+			Tính trung thực và tính nguyên tắc; tính khiêm tốn và lòng dũng cảm.
+			Tình yêu lao động và tình thương yêu con người.
+		</answer>
+	</test>
+	<test>
+		<question><qt>Một số nét đẹp về truyền thống đạo đức</qt> của mỗi con người Việt Nam theo tư tưởng của Chủ tịch Hồ Chí Minh <qt>là</qt>?</question>
+		<answer>
+			Cần kiệm: Là lao động cần cù, siêng năng; làm việc có kế hoạch, sáng tạo có năng suất cao, với tinh thần tự lực cánh sinh, không lười biếng, không ỷ lại, không dựa dẫm; tiết kiệm sức lao động, tiết kiệm thì giờ, tiết kiệm tiền của dân, của nước, của bản thân mình, không hao phí, không bừa bãi, không phô trương hình thức.
+			Liêm chính: Là không tham ô và luôn luôn tôn trọng, giữ gìn của công, của nhân dân; ngay thẳng, không tà, đúng đắn, chính trực, việc phải dù nhỏ cũng làm, việc trái dù nhỏ cũng tránh.
+		</answer>
+	</test>
+	<test>
+		<question>Khái niệm về <ano>đạo đức nghề nghiệp</ano> của <tp>người lái xe</tp> kinh doanh vận tải <qt>được hiểu như thế nào</qt>?</question>
+		<answer>
+			Luôn ghi nhớ và thực hiện lời dạy của Bác: "<ano>Yêu xe như con, quý xăng như máu"; nắm vững quy định của pháp luật, nghiêm chỉnh chấp hành luật giao thông đường bộ, lái xe an toàn; có ý thức tổ chức kỷ luật, chấp hành nội quy, quy chế xây dựng đơn vị nơi mình công tác; có tinh thần hợp tác, giúp đỡ đồng nghiệp; có ý thức bảo vệ môi trường; luôn tu dưỡng bản thân, có lối sống lành mạnh, tác phong công nghiệp.
+			Đối với hành khách phải kính trọng, thân ái, giúp đỡ; đối với khách hàng phải có trách nhiệm, hợp tác, thực hiện đầy đủ hợp đồng vận tải; đối với người tham gia giao thông phải tôn trọng, bảo vệ.
+		</answer>
+	</test>
+	<test>
+		<question>Khái niệm về <ano>văn hóa giao thông</ano> <qt>được hiểu như thế nào là đúng</qt>?</question>
+		<answer>
+			Là sự hiểu biết và chấp hành nghiêm chỉnh pháp luật về giao thông; là ý thức trách nhiệm với cộng đồng khi tham gia giao thông.
+			Là ứng xử có văn hóa, có tình yêu thương con người trong các tình huống không may xảy ra khi tham gia giao thông.
+		</answer>
+	</test>
+	<test>
+		<question><tv>Ôtô</tv> tham gia đường bộ <qt>phải đảm bảo các quy định về chất lượng, an toàn kỹ thuật và bảo vệ môi trường nào</qt> ghi dưới đây?</question>
+		<answer>
+			Kính chắn gió, cửa kính phải là loại kính an toàn, đảm bảo tầm nhìn cho người điều khiển, có đủ hệ thống hãm và hệ thống chuyển hướng có hiệu lực, tay lái của <tv>ôtô</tv> ở bên trái xe, có còi với âm lượng đúng theo quy định.
+			Có đủ đèn chiếu sáng gần và xa, đèn soi biển số, đèn báo hãm, đèn tín hiệu, có đủ bộ phận giảm thanh, giảm khói, các kết cấu phải đủ độ bền và đảm bảo tính năng vận hành ổn định.
+		</answer>
+	</test>
+	<test>
+		<question><tv>Ôtô</tv> tham gia giao thông trên đường bộ <qt>phải bắt buộc có đủ bộ phận giảm thanh, giảm khói không</qt>?</question>
+		<answer>
+			Không bắt buộc.
+			Bắt buộc.
+		</answer>
+	</test>
+	<test>
+		<question>"Người điều khiển phương tiện tham gia giao thông</ano>" gồm <qt>những đối tượng nào</qt>?</question>
+		<answer>
+			Người điều khiển xe cơ giới, người điều khiển xe thô sơ.
+			Người điều khiển xe máy chuyên dùng tham gia giao thông đường bộ.
+		</answer>
+	</test>
